@@ -1,3 +1,8 @@
+## Updates by rmasthipur
+Have updaloaded the plot files as `plot1.png`, `plot2.png`, etc.
+Have also uploaded a separate R code file (`plot1.R`, `plot2.R`, etc.) that
+constructs the corresponding plot, 
+
 ## Introduction
 
 This assignment uses data from
